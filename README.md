@@ -59,9 +59,9 @@ In the future, I aspire to master **cybersecurity** and become an expert in prot
 
 ### 📫 How to reach me
 
-- **LinkedIn**: [linkedin.com/in/yeabsra](https://www.linkedin.com/in/yeabsra)
+- **LinkedIn**: [linkedin.com/in/yeabsra](https://et.linkedin.com/in/yeabsra-gebriel-5b056a240)
 - **Portfolio**: [yeabsra.com](https://www.yeabsra.com) (Coming Soon)
-- **Email**: [yeabsra@developer.com](mailto:yeabsra@developer.com)
+- **Email**: [yeabsra@developer.com](mailto:yeabsragebriel@gmail.com)
 
 ---
 
