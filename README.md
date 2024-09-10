@@ -1,37 +1,70 @@
-# Hi there, I'm Yeabsra Gebriel! 👋
+## Hi there! 👋 I'm Yeabsra Gebriel
 
-## 💻 Full-Stack Developer | 🎨 UI/UX Designer
+👨‍💻 **Full Stack Developer** | 🎨 **UI/UX Designer** | 🚀 **Aspiring Cybersecurity Expert**
 
-Welcome to my GitHub profile! I'm passionate about creating robust web applications and designing intuitive user interfaces.
+---
 
-### 🛠️ My Tech Stack
+### About Me
 
-- Frontend: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- Design: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+Hi! I'm Yeabsra, a passionate **Full Stack Developer** with expertise in **JavaScript (JS)**, **TypeScript (TS)**, **Node.js**, **MongoDB**, **React**, and **Three.js**. Along with my development skills, I also have a strong interest in **UI/UX design**, blending creativity and functionality to create seamless user experiences.
 
-### 🚀 What I'm up to
+In the future, I aspire to master **cybersecurity** and become an expert in protecting systems and data. But for now, I'm fully immersed in building web applications, creating immersive 3D experiences, and designing beautiful, user-friendly interfaces.
 
-- 🔭 I'm currently working on enhancing my full-stack development skills
-- 🌱 I'm learning advanced UI/UX design techniques
-- 👯 I'm looking to collaborate on innovative web projects
-- 🤔 I'm exploring the world of cybersecurity for future expertise
+---
+
+### ⚡ Tech Stack & Tools
+
+- 💻 **Languages & Frameworks**:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
+
+- 🎨 **Design**:  
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) 
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobexd) 
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+
+- 🛠️ **Other Tools**:  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code) 
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+---
+
+### 🌱 Currently Learning
+
+- Expanding my knowledge of **Full Stack Development** with advanced topics in **Node.js** and **React**.
+- Deepening my expertise in **Three.js** and exploring **React Three Fiber** for immersive 3D web experiences.
+- Beginning my journey into **Cybersecurity**, with plans to become a master in the field.
+
+---
+
+### 🚀 Future Goals
+
+- **Master cybersecurity** and become one of the best experts in protecting systems and networks.
+- Continue designing and developing impactful applications and systems as a **Full Stack Developer**.
+- Push the boundaries of web-based 3D experiences using **Three.js** and related technologies.
+- Teach and share my knowledge as a **Cybersecurity Professor** in the future.
+
+---
 
 ### 📊 GitHub Stats
 
 ![Yeabsra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeabsr&show_icons=true&theme=radical)
 
-### 🌐 Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-gebriel)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YeabsraGebriel)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://yeabsragebriel.com)
+### 📫 How to reach me
 
-### ⚡ Fun fact
-
-When I'm not coding or designing, you can find me exploring the latest cybersecurity trends and participating in CTF challenges!
+- **LinkedIn**: [linkedin.com/in/yeabsra](https://www.linkedin.com/in/yeabsra)
+- **Portfolio**: [yeabsra.com](https://www.yeabsra.com) (Coming Soon)
+- **Email**: [yeabsra@developer.com](mailto:yeabsra@developer.com)
 
 ---
 
-💼 Open for exciting job opportunities and collaborations. Let's create something amazing together!
+### 🔥 Fun Fact
+
+In my free time, I love exploring new tech, creating 3D web experiments, learning about the latest trends in cybersecurity, and working on side projects that combine development, design, and immersive experiences!
