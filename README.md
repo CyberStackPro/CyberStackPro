@@ -53,7 +53,7 @@ In the future, I aspire to master **cybersecurity** and become an expert in prot
 
 ### 📊 GitHub Stats
 
-![Yeabsra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeabsr&show_icons=true&theme=radical)
+![Yeabsra's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberStackPro&show_icons=true&theme=radical)
 
 ---
 
