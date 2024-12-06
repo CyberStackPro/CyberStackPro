@@ -1,65 +1,66 @@
-## Hi there! 👋 I'm Yeabsra  
+# Hi there! 👋 I'm Yeabsra  
 
-👨‍💻 **Full Stack Developer** | 🎨 **UI/UX Designer** | 🚀 **Aspiring Cybersecurity Expert**  
+💻 **Full Stack Developer** | 🎨 **UI/UX Designer** | 🛡️ **Aspiring Cybersecurity Expert**  
 
 ---
 
 ### About Me  
-
-Hi! I'm Yeabsra, a passionate **Full Stack Developer** with expertise in building robust web applications using modern technologies like **JavaScript**, **TypeScript**, **React**, and **Node.js**. I combine **UI/UX design skills** with advanced **3D web development** tools like **Three.js** to create immersive user experiences.  
-
-Currently, I am exploring **cybersecurity**, aiming to protect systems and data in the future. My goal is to bridge the gap between creative development and secure engineering.  
+I'm a passionate developer focused on crafting secure, scalable applications using modern web technologies. I aim to bridge creativity and secure engineering with a special interest in 3D web experiences and cybersecurity.
 
 ---
 
-### ⚡ Tech Stack  
+### 🛠️ Tech Stack  
+<div align="center">
 
-#### **Proficient In**:  
-- **Languages**: JavaScript, TypeScript, SQL, Python  
-- **Frameworks & Libraries**: React, Next.js, NestJS, Three.js  
-- **Databases**: MongoDB, PostgreSQL  
-- **Design**: Figma, Tailwind CSS  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,threejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,git,linux,vscode,python,django)](https://skillicons.dev)
 
-#### **Currently Exploring**:  
-- **3D Tools**: React Three Fiber, Blender  
-- **Cybersecurity**: Penetration Testing, Network Security Tools (Nmap, Burp Suite)  
-- **Advanced Backend**: GraphQL, Microservices Architecture  
+</div>
 
 ---
 
-### 🌱 Currently Learning  
-
-- **Cybersecurity Basics**: Networking, Penetration Testing, OWASP Top 10  
-- **Web Security**: Protecting APIs and Web Applications from vulnerabilities  
-- **3D Web Development**: Integrating Three.js with React for dynamic user interfaces  
-- **Advanced Full Stack Development**: GraphQL, Serverless Architectures  
-
----
-
-### 🚀 Future Goals  
-
-- Build secure, scalable full-stack applications and 3D web experiences.  
-- Gain certifications in **Ethical Hacking** (CEH) and **Cybersecurity Analysis**.  
-- Contribute to open-source projects focused on web security.  
-- Teach and inspire others as a **Cybersecurity Educator**.  
+### 🚀 Current Project  
+- **Notion Clone**: Building a **Notion-like application** that allows users to organize their workspaces efficiently.  
+  **Tech stack**: React, TypeScript, Node.js, MongoDB, Tailwind CSS  
+  **Key features**:  
+  - Rich text editing  
+  - Multi-user collaboration  
+  - Workspace organization  
+  - Real-time updates
 
 ---
 
-### 📊 GitHub Stats  
-
-![Yeabsra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberStackPro&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberStackPro&layout=compact&theme=radical)  
+### 🌱 Current Focus  
+- **Full Stack Development**: Building dynamic web applications.  
+- **3D Web**: Exploring React Three Fiber.  
+- **Cybersecurity**: Learning Penetration Testing and Network Security.
 
 ---
 
-### 📫 How to reach me  
+### 📫 Connect With Me  
+<div align="center">
 
-- **LinkedIn**: [linkedin.com/in/yeabsra](https://et.linkedin.com/in/yeabsra-gebriel-5b056a240)  
-- **Portfolio**: [yeabsraport.com](https://www.yeabsra.com) (_Coming Soon_)  
-- **Email**: [yeabsragebriel@gmail.com](mailto:yeabsragebriel@gmail.com)  
+<a href="https://et.linkedin.com/in/yeabsra-gebriel-5b056a240" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.yeabsra.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:yeabsragebriel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>  
 
 ---
 
 ### 🔥 Fun Fact  
+In my free time, I enjoy experimenting with tech, creating immersive designs, and learning the latest trends in web development and cybersecurity.
 
-In my free time, I love exploring new tech, creating 3D web experiments, learning about the latest trends in cybersecurity, and working on side projects that combine development, design, and immersive experiences!  
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=CyberStackPro&color=blueviolet&style=flat-square)
+
+</div>  
