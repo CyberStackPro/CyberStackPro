@@ -6,7 +6,7 @@
 
 ### About Me
 
-Hi! I'm Teabsra, a passionate **Full Stack Developer** with expertise in **JavaScript (JS)**, **TypeScript (TS)**, **Node.js**, **Postgresql**, **SQL**, **MongoDB**, **React**, and **Three.js**. Along with my development skills, I also have a strong interest in **UI/UX design**, blending creativity and functionality to create seamless user experiences.
+Hi! I'm Teabsra, a passionate **Full Stack Developer** with expertise in **JavaScript (JS)**, **TypeScript (TS)**, **Node.js**, **Postgresql**, **SQL**, **MongoDB**, **React**, **NextJs**, **Nestjs** and **Three.js**. Along with my development skills, I also have a strong interest in **UI/UX design**, blending creativity and functionality to create seamless user experiences.
 
 In the future, I aspire to master **cybersecurity** and become an expert in protecting systems and data. But for now, I'm fully immersed in building web applications, creating immersive 3D experiences, and designing beautiful, user-friendly interfaces.
 
