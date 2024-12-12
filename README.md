@@ -12,7 +12,7 @@ I'm a passionate developer focused on crafting secure, scalable applications usi
 ### 🛠️ Tech Stack  
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,threejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,threejs,graphql)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,git,linux,vscode,python,django)](https://skillicons.dev)
 
 </div>
