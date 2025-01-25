@@ -1,41 +1,93 @@
-# Hi there! 👋 I'm Yeabsra  
-
-💻 **Full Stack Developer** | 🎨 **UI/UX Designer** | 🛡️ **Aspiring Cybersecurity Expert**  
+# 👋 Hi! I'm Yeabsra Gebriel  
+**Real-Time Systems Architect** | **Security-First Developer** | **3D Web Pioneer**  
 
 ---
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=CyberStackPro&color=blueviolet&style=flat-square)
+
+</div>  
 
 ### About Me  
 I'm a passionate developer focused on crafting secure, scalable applications using modern web technologies. I aim to bridge creativity and secure engineering with a special interest in 3D web experiences and cybersecurity.
 
 ---
 
-### 🛠️ Tech Stack  
+### 🧠 My Approach  
+*"Building web solutions that last - secure today, ready for tomorrow."*  
+
+I create systems that are:  
+✅ **Fast**: Real-time updates under 200ms  
+✅ **Reliable**: 99.9% uptime even at scale  
+✅ **Accessible**: Works smoothly for all users  
+✅ **Secure**: Enterprise-grade protection  
+
+---
+
+### 🛠️ Core Competencies  
 <div align="start">
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,threejs,graphql)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,git,linux,vscode,django)](https://skillicons.dev)
+**Frontend**  
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,react,nextjs,threejs,tailwind,figma)](https://skillicons.dev)  
+
+**Backend**  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,python,django,graphql,redis)](https://skillicons.dev)  
+
+**Infra & Security**  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,linux,git,github)](https://skillicons.dev)  
 
 </div>
 
 ---
 
-### 🚀 Current Project  
-- **Notion Clone**: Building a **Notion-like application** that allows users to organize their workspaces efficiently.  
-  **Tech stack**: React, TypeScript, Node.js, MongoDB, Tailwind CSS  
-  **Key features**:  
-  - Rich text editing  
-  - Multi-user collaboration  
-  - Workspace organization  
-  - Real-time updates
+### 🔥 Featured Projects  
+
+#### 📝 **Notion-Style Collaboration Web-App**  
+*Next.js | NestJS | Yjs CRDT | Redis*  
+[![Live Demo](https://img.shields.io/badge/DEMO-Live-brightgreen?style=for-the-badge)](https://notion-clone.demo)  
+- Real-time document editing with multiple collaborators  
+- Rich text formatting & file embedding capabilities  
+- User authentication with JWT tokens  
+- Organized workspace system with folders/labels  
+
+#### 🏥 **Insurance Management System**  
+*Django | Celery | React-Three-Fiber*  
+[![Case Study](https://img.shields.io/badge/CASE_STUDY-View-blue?style=for-the-badge)](https://github.com/CyberStackPro/insurance-platform)  
+- Policy purchase & management dashboard  
+- Broker/user role-based access control  
+- Automated email/SMS notifications  
+- Responsive mobile-first design
+
+- 
+#### 💬 **E-Learning Chat Platform**  
+*Next.js | Socket.io | Tailwind*  
+- Real-time chat with message history  
+- User presence indicators (online/typing)  
+- File/document sharing functionality  
+- Clean modern UI with dark/light modes  
+
+#### 🎮 **3D Web Experiments**  
+*Three.js | React-Three-Fiber*  
+- Interactive 3D product visualizations  
+- Physics-based animations  
+- Performance-optimized scenes  
+- Shader material explorations  
+
+
+### 📚 Certifications & Learning  
+- **Meta Frontend Certification**: React Performance  
+- **NestJS Professional**: API Development  
+- **Security Fundamentals**: Ethical Hacking Basics  
+
+**Currently Exploring**  
+- Making web apps faster  
+- Advanced login security  
+- 3D animation techniques  
 
 ---
 
-### 🌱 Current Focus  
-- **Full Stack Development**: Building dynamic web applications.  
-- **3D Web**: Exploring React Three Fiber.  
-- **Cybersecurity**: Learning Penetration Testing and Network Security.
-
----
 
 ### 📫 Connect With Me  
 <div align="center">
@@ -54,13 +106,10 @@ I'm a passionate developer focused on crafting secure, scalable applications usi
 
 ---
 
-### 🔥 Fun Fact  
-In my free time, I enjoy experimenting with tech, creating immersive designs, and learning the latest trends in web development and cybersecurity.
-
+### ⚡️ Beyond Coding  
+*When not building:*  
+- Exploring blockchain security 🔐  
+- Comparing web technologies for speed ⚡  
+- Creating open-source 3D tools 🎮  
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=CyberStackPro&color=blueviolet&style=flat-square)
-
-</div>  
