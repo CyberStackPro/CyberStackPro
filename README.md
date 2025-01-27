@@ -1,9 +1,6 @@
 # 👋 Hi! I'm Yeabsra Gebriel  
 **Real-Time Systems Architect** | **Security-First Developer** | **3D Web Pioneer**  
-
 ---
-
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberStackPro&color=blueviolet&style=flat-square)
