@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Yeabsra Gebriel  
+# 👋 Hi! I'm Yeabsra  
 **Real-Time Systems Architect** | **Security-First Developer** | **3D Web Pioneer**  
 ---
 <div align="center">
