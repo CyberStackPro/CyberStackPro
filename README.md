@@ -26,15 +26,17 @@ I create systems that are:
 ✅ **Secure**: Enterprise-grade protection  
 
 ---
-
 ### 🛠️ Core Competencies  
 <div align="start">
 
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c)](https://skillicons.dev)  
+
 **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=c,js,ts,react,nextjs,threejs,tailwind,figma,electron)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron,tauri)](https://skillicons.dev)  
 
 **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,python,django,graphql,redis,rust)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,django,graphql,redis)](https://skillicons.dev)  
 
 **Infra & Security**  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,linux,git,github)](https://skillicons.dev)  
