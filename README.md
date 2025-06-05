@@ -17,77 +17,64 @@ I'm a passionate developer focused on crafting secure, scalable applications usi
 
 ### 🧠 My Approach 
 
-*"Building web solutions that last - secure today, ready for tomorrow."*  
+*"Building web solutions that last — secure today, ready for tomorrow."*  
 
 I create systems that are:  
-✅ **Fast**: Real-time updates under 200ms  
-✅ **Reliable**: 99.9% uptime even at scale  
-✅ **Accessible**: Works smoothly for all users  
-✅ **Secure**: Enterprise-grade protection  
+✅ **Fast** – Real-time updates under 200ms  
+✅ **Reliable** – 99.9% uptime at scale  
+✅ **Accessible** – Smooth UX for all users  
+✅ **Secure** – Enterprise-grade protection  
 
 ---
+
 ### 🛠️ Core Competencies  
 <div align="start">
 
 **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c)](https://skillicons.dev)
 
 **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron,tauri)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron,tauri)](https://skillicons.dev)
 
 **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,django,graphql,redis)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,django,graphql,redis)](https://skillicons.dev)
 
 **Infra & Security**  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,linux,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,linux,git,github)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🔥 Featured Projects  
+### 🔥 Featured Projects
 
-#### 📝 **Notion-Style Collaboration Web-App**  
-*Next.js | NestJS | Yjs CRDT | Redis*  
-[![Live Demo](https://img.shields.io/badge/DEMO-Live-brightgreen?style=for-the-badge)](https://notion-clone.demo)  
-- Real-time document editing with multiple collaborators  
-- Rich text formatting & file embedding capabilities  
-- User authentication with JWT tokens  
-- Organized workspace system with folders/labels  
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| **Notion Clone** | `Next.js`, `NestJS`, `Redis` | Real-time CRDT editing, JWT Auth, folder system |
+| **Insurance Platform** | `Django`, `Celery`, `React` | Broker/user flows, auto-notifications, mobile-ready |
+| **Insurance Broker (Gasha)** | `React`, `MongoDB`, `Node.js` | Matchmaking between users and brokers |
+| **Movie Hub** | `Node.js`, `MongoDB`, `React` | Full-stack CRUD, filters, reviews, search |
+| **Google Auth + Zustand** | `Zustand`, `JWT`, `CryptoJS` | Encrypted auth, role-based control, persistent state |
+| **Shoplifting AI** | `Python`, `OpenCV`, `Flask` | Detects retail theft, real-time camera analysis |
+| **Stealth Monitor** | `C`, `Linux Daemon` | Background user activity monitor, security focus |
+| **Course Manager** | `TypeScript`, `Zod`, `Mongoose` | Age-restricted courses, file upload, admin panel |
+| **3D Portfolio Experiments** | `Three.js`, `React-Three-Fiber` | Rotating brain, particles, shaders |
+| **Bitshubet Projects** | `Full-stack`, `Security`, `Team Collab` | 3+ years of real production-level enterprise apps |
 
-#### 🏥 **Insurance Management System**  
-*Django | Celery | React-Three-Fiber*  
-[![Case Study](https://img.shields.io/badge/CASE_STUDY-View-blue?style=for-the-badge)](https://github.com/CyberStackPro/insurance-platform)  
-- Policy purchase & management dashboard  
-- Broker/user role-based access control  
-- Automated email/SMS notifications  
-- Responsive mobile-first design
+> 💼 [More on My GitHub →](https://github.com/CyberStackPro?tab=repositories)
 
-- 
-#### 💬 **E-Learning Chat Platform**  
-*Next.js | Socket.io | Tailwind*  
-- Real-time chat with message history  
-- User presence indicators (online/typing)  
-- File/document sharing functionality  
-- Clean modern UI with dark/light modes  
-
-#### 🎮 **3D Web Experiments**  
-*Three.js | React-Three-Fiber*  
-- Interactive 3D product visualizations  
-- Physics-based animations  
-- Performance-optimized scenes  
-- Shader material explorations  
-
+---
 
 ### 📚 Certifications & Learning  
-- **Meta Frontend Certification**: React Performance  
-- **NestJS Professional**: API Development  
-- **Security Fundamentals**: Ethical Hacking Basics  
 
-**Currently Exploring**  
-- Making web apps faster  
-- Advanced login security  
-- 3D animation techniques  
+- **Meta Frontend** – React Performance  
+- **NestJS Pro** – Backend APIs  
+- **Ethical Hacking Basics** – Security 101  
+
+**Currently Exploring:**  
+- Web performance optimization  
+- Advanced security practices  
+- Shader-based 3D effects  
 
 ---
 
@@ -104,13 +91,12 @@ I create systems that are:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>  
+</div>
 
 ---
 
 ### ⚡️ Beyond Coding
 *When not building:*
-- Exploring blockchain security 🔐
-- Comparing web technologies for speed ⚡
-- Creating open-source 3D tools 🎮
----
+- Exploring blockchain security 🔐  
+- Creating open-source 3D tools 🎮  
+- Researching tech for the future 🌍
