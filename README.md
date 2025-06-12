@@ -59,7 +59,7 @@ I create systems that are:
 | **Stealth Monitor** | `C`, `Linux Daemon` | Background user activity monitor, security focus |
 | **Course Manager** | `TypeScript`, `Zod`, `Mongoose` | Age-restricted courses, file upload, admin panel |
 | **3D Portfolio Experiments** | `Three.js`, `React-Three-Fiber` | Rotating brain, particles, shaders |
-| **Bitshubet Projects** | `Full-stack`, `Security`, `Team Collab` | 3+ years of real production-level enterprise apps |
+| **Bitshubet Projects** | `Full-stack`, `Security`, `Team Collab` | 4+ years of real production-level enterprise apps |
 
 > 💼 [More on My GitHub →](https://github.com/CyberStackPro?tab=repositories)
 
