@@ -31,13 +31,13 @@ I create systems that are:
 <div align="start">
 
 **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,python,js,ts,c)](https://skillicons.dev)
 
 **Frontend**  
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron,tauri)](https://skillicons.dev)
 
 **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,django,graphql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=axum,nestjs,nodejs,django,graphql,redis)](https://skillicons.dev)
 
 **Infra & Security**  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,linux,git,github)](https://skillicons.dev)
