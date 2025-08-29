@@ -18,19 +18,19 @@ I'm a developer, builder, and researcher — passionate about building secure, s
 
 With 5+ years of experience building enterprise-grade applications at [Bitshubet](https://bitshubet.com/), I specialize in:
 
-- 🔐 **Security-first development**
-- ⚙️ **Low-level system tooling with Rust**
-- 🧠 **AI-driven real-time systems**
-- 🌐 **Full-stack web platforms with React, NestJS, Django, and more**
+-  **Security-first development**
+-  **Low-level system tooling with Rust**
+-  **AI-driven real-time systems**
+-  **Full-stack web platforms with React, NestJS, Django, and more**
 
 ---
 
 ### 🚀 Current Focus
 
-- 🧿 **WraithMarked** – Cross-platform stealth activity monitor (RAT-style PoC) in Rust  
-- 🧠 **Shoplifting Detection AI** – Computer vision system for retail environments
-- 🕵️ **Activity Monitor** – Electron app for desktop session analysis (stealth version)
-- 🔄 **Bitshubet Systems** – Building real SaaS products for clients in finance, insurance, and logistics  
+-  **WraithMarked** – Cross-platform stealth activity monitor (RAT-style PoC) in Rust  
+-  **Shoplifting Detection AI** – Computer vision system for retail environments
+-  **Activity Monitor** – Electron app for desktop session analysis (stealth version)
+-  **Bitshubet Systems** – Building real SaaS products for clients in finance, insurance, and logistics  
 
 ---
 
