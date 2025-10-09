@@ -42,7 +42,7 @@ With 5+ years of experience building enterprise-grade applications at [Bitshubet
 [![My Skills](https://skillicons.dev/icons?i=rust,python,js,ts,c)](https://skillicons.dev)
 
 **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,figma,electron,tauri)](https://skillicons.dev)
 
 **Backend**  
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,django,graphql)](https://skillicons.dev)
