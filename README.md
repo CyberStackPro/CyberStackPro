@@ -102,6 +102,10 @@ With 5+ years of experience building enterprise-grade applications at [Bitshubet
 <a href="mailto:yeabsragebriel@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://yeab-web.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-5G17FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal website"/>
+</a>
+
 
 </div>
 
