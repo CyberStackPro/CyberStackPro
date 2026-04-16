@@ -16,7 +16,7 @@
 
 I'm a developer, builder, and researcher — passionate about building secure, scalable, and intelligent systems that make real-world impact.
 
-With 5+ years of experience building enterprise-grade applications at [Bitshubet](https://bitshubet.com/), I specialize in:
+With 6+ years of experience building enterprise-grade applications at [Bitshubet](https://bitshubet.com/), I specialize in:
 
 -  **Security-first development**
 -  **Low-level system tooling with Rust**
