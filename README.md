@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yeabsra (aka @CyberStackPro)
 
-**Software Engineer** | **Full-Stack Developer** | **Rust Red Team Toolsmith** | **Bitshubet CTO/CFO**
+**Software Engineer** | **Full-Stack Developer** | **Rust Red Team Toolsmith** | **Bitshubet CTO/CFO** | **Rymot Team**
 
 ---
 
